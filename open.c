@@ -6,6 +6,7 @@
 CtoS_MSG ctos;
 StoC_MSG stoc;
 
+//进行git测试1
 void open_acc(void)
 {
 	//	具体功能实现
